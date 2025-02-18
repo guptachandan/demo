@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0640-8EFA
+
+ Directory of C:\softwares\git\demo
+
+18-02-2025  14:21    <DIR>          .
+18-02-2025  14:20    <DIR>          ..
+18-02-2025  14:21                18 README.md
+18-02-2025  14:21                 0 test1.txt
+               2 File(s)             18 bytes
+               2 Dir(s)  416,941,834,240 bytes free
